@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566985159550",
+    "project_id": "darksro-42be5",
+    "storage_bucket": "darksro-42be5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566985159550:android:c7438744b99b77a8e2392f",
+        "android_client_info": {
+          "package_name": "com.example.darksro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566985159550-2ruaf0ru8hhdrkd65hq43o5p5v2k0s75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAruKFs3955Kuun_IsiiZTmQChpibB4B0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566985159550-2ruaf0ru8hhdrkd65hq43o5p5v2k0s75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

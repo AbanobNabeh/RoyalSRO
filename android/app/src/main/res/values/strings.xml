@@ -1,0 +1,3 @@
+<resources>
+    <string name="default_notification_channel_id">com.example.firebase_push_notifications</string>
+</resources>
