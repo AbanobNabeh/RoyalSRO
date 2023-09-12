@@ -7,8 +7,6 @@ class DioApp {
   static init() {
     dio = Dio(
       BaseOptions(
-        baseUrl: AppUrl.APILINK,
-        headers: {'Authorization': 'Bearer royalsroadminbob'},
         receiveDataWhenStatusError: true,
       ),
     );
